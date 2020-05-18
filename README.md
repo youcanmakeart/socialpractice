@@ -2,10 +2,16 @@
 
 - [社会实践艺术（中文）](#社会实践艺术中文)
 - [社会实践艺术（英文）](#社会实践艺术英文)
+
+
 - [当代艺术类档案网站](#当代艺术类档案网站)
 - [文化艺术综合类档案网站](#文化艺术综合类档案网站)
-- [如何参与本页面](#如何参与本页面)
 
+
+- [艺术家书](#艺术家书)
+
+
+- [如何参与本页面](#如何参与本页面)
 
 * * * 
 
@@ -260,6 +266,26 @@
 *   _WB_, Wikibooks [[26](http://wikibooks.org/ "http://wikibooks.org/")]
 *   _WDB_, Wolfenbüttel Digital Library, Herzog August Bibliothek, Wolfenbüttel [[27](http://www.hab.de/en/home/library/wolfenbuettel-digital-library.html "http://www.hab.de/en/home/library/wolfenbuettel-digital-library.html")]
 *   _WS_, Wikisource [[28](http://wikisource.org/ "http://wikisource.org/")]
+
+
+# 艺术家书
+
+*   艺术书展
+    *   上海UNFOLD:[http://www.shanghaiartbookfair.com/](http://www.shanghaiartbookfair.com/ "http://www.shanghaiartbookfair.com/")
+    *   上海/北京 abC书展: [http://artbookinchina.com/zh/](http://artbookinchina.com/zh/ "http://artbookinchina.com/zh/")
+*   馆藏
+    *   香港大馆[艺术家书籍图书馆](https://www.taikwun.hk/zh/exhibition/detail/藝術家書籍圖書館/42 "https://www.taikwun.hk/zh/exhibition/detail/藝術家書籍圖書館/42")
+    *   香港亚洲艺术文献库
+*   有卖艺术家书的地方
+    *   广州：上阳台
+    *   广州：冯火印刷社
+    *   广州：奇点画廊
+    *   北京：五金
+    *   香港：富德楼艺鹄
+    *   香港：KUBRICK
+    *   香港：合社
+    *   香港：smalltunepress
+    *   香港：zine coop （见facebook页面）
 
 
 # 如何参与本页面
