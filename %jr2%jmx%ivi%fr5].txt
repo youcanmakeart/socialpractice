@@ -1,0 +1,159 @@
+======   ======
+
+替代微信、微信公众号的各种选择
+
+===== 写东西 =====
+
+论坛
+
+  * 商业综合性论坛：贴吧、天涯、Reddit等
+  * Google Group
+  * 欧美主流艺术界的 e-flux conversation \\  [[https://conversations.e-flux.com|https://conversations.e-flux.com]] \\  新的编辑模式+内容模式： \\  “到目前为止，我们（e-flux）一直采取相当传统的方式来开发内容：通过委托撰写文章、展览评论或新闻公报。” \\  “我们正以混合编辑模式开始e-flux对话，邀请常驻编辑……在几周内与他们的同伴组成的小组一起发起并领导一系列讨论线索。" \\  [[https://www.art-agenda.com/shows/e-flux-conversations-2/|https://www.art-agenda.com/shows/e-flux-conversations-2/]] \\  “我们正在共同创造新的内容模式——把博客和留言板完美结合起来——来主持如今最紧急的艺术对话。使用混合编辑模式，这个开放论坛允许任何用户参与，以及由轮流邀请的投稿人主持的专门讨论。我们想成为一个北京艺术学生可以和查尔斯·埃舍尔聊天的地方。" \\  [[https://www.artandeducation.net/announcements/106796/e-flux-conversations|https://www.artandeducation.net/announcements/106796/e-flux-conversations]]
+      * 批评：“e-flux自称是开放的、民主的，但它自始就将人们排除在外。那是个非常明确的小圈子。雄心勃勃的意图宣言与现实情形之间常常存在距离。他不断试图改变事物，寻找另一种‘自治（autonomy）’方式，像耍杂技一样，使盘子在空中旋转不停，这其中当然潜伏着危险。”（Liam Gillick）
+  * 中国艺术界的art-ba-ba \\ [[http://www.art-ba-ba.com/|http://www.art-ba-ba.com/]]
+  * 中国诗歌界的橡皮文学网等 \\ xiangpi.net（已关闭）
+  * 各种老式论坛，如： \\ 地区论坛：[[http://bbs.zxwindow.com/|http://bbs.zxwindow.com/]] \\  兴趣论坛：[[http://www.zgxfwy.com/|http://www.zgxfwy.com/]]
+
+“网络对我的改变真的很大。”她说。
+
+她2008年开始注册了QQ，随后经常逛一些论坛，钟祥论坛、红袖添香、新浪论坛等等。钟祥论坛上留下了许多余秀华的足迹，她陆续发了很多诗歌帖。
+
+那段日子里，她会和论坛、贴吧里的诗友见面，一起喝酒。2009年，钟祥贴吧的网友们凑钱买了台电脑送给余秀华。
+
+她也写过诗描述她在网络上的世界：“我在互联网上流浪：写诗，聊天，调戏不同的男人/不到关键时刻就拒绝想起自己/谁不合时宜地流露真情/我的盾牌就会高高举起/这样的日/其实阳光灿烂/我的存在似乎真的不坏。”
+
+和文友们在网上互相批改对方的诗歌，交换意见，是她特别大的快乐。她把所有的理解和精神共鸣都寄托于横店以外的，由网络带来的世界。
+
+各种参与式平台
+
+  * Agency of Unrealized Projects “未实现的艺术方案”参与式平台 \\ [[https://e-flux.com/aup/|Agency of Unrealized Projects | e-flux ]]
+  * Timebank “时间银行”参与式平台
+  * Bioswop “简历交换”参与式平台（感谢何子推荐）
+  * Wikipedia的讨论页 \\ 例子：[[https://zh.wikipedia.org/wiki/Wikipedia_talk:2009年首頁改版計劃#.E7.9B.AE.E5.89.8D.E7.9A.84.E5.88.86.E6.AD.A7|https://zh.wikipedia.org/wiki/Wikipedia_talk:2009%E5%B9%B4%E9%A6%96%E9%A0%81%E6%94%B9%E7%89%88%E8%A8%88%E5%8A%83#.E7.9B.AE.E5.89.8D.E7.9A.84.E5.88.86.E6.AD.A7]]
+
+博客和播客
+
+  * [[https://thetype.com/|https://thetype.com/]]
+
+其他
+
+  * 麻省理工的开源学术出版：pubpub.org
+  * 档案类网站请见“其他线上档案网站”页面
+
+维基/文档
+
+  * （可考虑）mkdocs + material design \\ [[https://www.mkdocs.org/|https://www.mkdocs.org/]] \\  [[https://squidfunk.github.io/mkdocs-material/|https://squidfunk.github.io/mkdocs-material/]] \\  例子 [[https://wiki.aragon.one/|https://wiki.aragon.one/]] \\  例子 [[https://wiki.aragon.one/|https://docs.sandstorm.io/en/latest/developing/web-publishing/]]
+  * （可考虑）wiki.js 等待进一步开发
+  * （不再考虑）ones.ai，国内，新公司，商业性，封闭wiki
+  * （不再考虑）mediawiki：对于管理和用户都太复杂
+  * （不再考虑）github wiki/repo：了解学习过程对非程序员用户有点复杂、不友好。纯英文。不能直接上传图片。
+  * （不再考虑）hackmd：用的是被封了的dropbox储存，比较适合笔记
+  * （不再考虑）gitbook：v2新版有很多限制，国内不好访问，经常断线和丢失数据。公开编辑功能限制。gitbook v1已经有很多书不见了。 \\ 例子 [[https://docs.realm.io/|https://docs.realm.io/platform/]]
+  * （可考虑）各种使用markdown的平台：markdown的学习和适应过程对非程序员有一些难度，实际使用中并不比普通所见即所得编辑器有优势
+  * （不再考虑）基于sandstorm.io的dokuwiki：sandstorm.io的用户体验有严重缺陷，并且更新迟缓，国内访问速度也不理想。考虑自己搭建sandstorm？
+
+----
+
+===== 区块链和去中心化技术 =====
+
+  * 云-等待进展：[[https://storj.io|https://storj.io]]
+  * 综合：应用 [[http://www.hyperledger.org/resources/blockchain-showcase|www.hyperledger.org/resources/blockchain-showcase]]
+  * 综合：公共区块链平台 [[http://www.ethereum.org|www.ethereum.org]]
+
+  * 组织相关-等待进展：
+      * [[https://www.aragon.one/|https://www.aragon.one/]]
+      *  [[https://colony.io/|https://colony.io/]]
+        * [[https://colony.io/|https://blog.colony.io/why-colony-2a1e479dc40d]]
+        * [[https://docs.colony.io/colonynetwork/docs-colony/|https://docs.colony.io/colonynetwork/docs-colony/]]
+      * [[https://tezos.com/|https://tezos.com/]]
+
+  * 内容相关-应用： \\ [[https://www.steemit.com|https://www.steemit.com]]
+  * 内容相关-等待进展： \\ [[https://www.po.et|https://www.po.et]]
+  * 内容相关-等待进展： \\ [[https://steem.com/|https://steem.com/]]
+  * 内容相关-应用-等待进展 \\ [[https://www.akasha.world|https://www.akasha.world]]
+  * 内容相关-wiki应用-等待进展 \\ [[https://www.everipedia.org|https://www.everipedia.org]]
+  * 内容相关-应用 \\ [[https://www.synereo.com|https://www.synereo.com]]
+  * 内容相关-中文世界-应用-等待进展 \\ [[https://matters.news|https://matters.news]]
+  * 无关： \\ 运算平台 [[http://www.golem.network|www.golem.network]] \\  底层技术 [[http://www.hyperledger.org|www.hyperledger.org]] \\  浏览器端进行内容奖赏：[[https://brave.com/publishers/|https://brave.com/publishers/]]
+
+----
+
+===== 工作 =====
+
+各种工具的对比： \\ https://airtable.com/universe/expWCtrErLAnJA8wp/zapiers-project-management-app-cheat-sheet?explore=true
+
+参考知乎相关回答： \\ [[https://www.zhihu.com/topic/20025304/top-answers|https://www.zhihu.com/topic/20025304/top-answers]] \\
+[[https://zhuanlan.zhihu.com/p/23179907|https://zhuanlan.zhihu.com/p/23179907]]
+
+  * 看板
+      * trello 商业
+      * wekan 开源
+      * 直接使用：综合性项目平台内看板功能
+      * 直接使用：文字文档工具
+      * 直接使用：维基式的页面
+  * 内部文档（对互联网的公开性弱）
+      * scrapbox.io 免费
+      * nuclino.com 商业
+      * notion.so 商业
+      * slite.com 商业
+      * 一起写 商业，国内
+      * dropbox paper 商业，被封了
+  * 综合性项目平台
+      * github 不会被封，多数功能面向程序员
+      * gitlab 开源，多数功能面向程序员
+      * papyrs 商业，贵
+      * asana 商业
+      * hitask 商业
+      * taskade 商业
+      * zoho projects 商业
+      * tower 商业，国内，多层次和功能，复杂
+      * teambition 商业，国内，类似tower
+  * 团队聊天
+      * slack 商业
+      * zoho connect
+      * rocket.chat 开源，需自己搭建
+      * discordapp 开源，可以不用注册，但验证码要翻墙
+      * gitter.im
+
+----
+
+===== 相关概念 =====
+
+  * Decentralized Web \\ 去中心化网络相关讨论 \\ [[https://2016.decentralizedweb.net/|https://2016.decentralizedweb.net/ \\ https://www.youtube.com/watch?v=mXiiL5Rui8M]]
+  * Open source \\ [[https://opensource.guide/|https://opensource.guide/]]
+  * Open core
+  * Free culture \\ [[https://en.wikipedia.org/wiki/Free-culture_movement|Free-culture movement - Wikipedia]]
+  * Platform Cooperativism 平台合作主义
+  * Blockchain 区块链相关，见本站:技术工作台
+  * 社区参与式/社区管理式的项目 \\ [[https://sandstorm.io/community/|https://sandstorm.io/community/]] \\  [[https://blog.aragon.one/aragon-will-be-community-governed-5069ed8d0a33|https://blog.aragon.one/aragon-will-be-community-governed-5069ed8d0a33]]
+  * 平台 \\ [[https://peers.community/|Peers - Home ]]{{:chrome-extension:chphlpgkkbolifaimnlloiipkdnihall_images_cross.png?nolink&}}
+  * GitLab的实践
+
+[[https://about.gitlab.com/culture/remote-only/|All Remote | GitLab ]]
+
+[[https://about.gitlab.com/stewardship/|Stewardship | GitLab ]]
+
+[[https://about.gitlab.com/strategy/#sequence|GitLab Strategy | GitLab ]]
+
+[[https://about.gitlab.com/strategy/#mission|GitLab Strategy | GitLab ]]
+
+[[https://about.gitlab.com/handbook/values/|GitLab Values | GitLab ]]
+
+[[https://about.gitlab.com/culture/gitlab-101/|GitLab 101 | GitLab ]]
+
+[[https://about.gitlab.com/handbook/|Team Handbook | GitLab ]]
+
+[[https://about.gitlab.com/okrs/|Objectives and Key Results (OKRs) | GitLab ]]
+
+[[https://about.gitlab.com/direction/#scope|GitLab Direction | GitLab ]]
+
+[[https://about.gitlab.com/releases/|GitLab releases | GitLab ]]
+
+[[https://about.gitlab.com/pricing/|GitLab Pricing | GitLab ]]
+
+[[https://gitlab.com/groups/gitlab-org|GitLab.org · GitLab ]]
+
+[[https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/about/index.html.md|source/about/index.html.md · master · GitLab.com / www-gitlab-com · GitLab ]]
+
+[[https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/CONTRIBUTING.md|CONTRIBUTING.md · master · GitLab.com / www-gitlab-com · GitLab ]]
+

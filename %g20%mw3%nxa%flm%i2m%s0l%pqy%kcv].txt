@@ -1,0 +1,30 @@
+<callout type="primary" icon="true"> 这个维基页面需要更新。欢迎你点击编辑按钮，一起来增加内容。 </callout>
+
+国外英文网站
+
+  * AAA \\ [[https://aaa.org.hk/en/collection/search/search/keyword:socially-engaged-art/|https://aaa.org.hk/en/collection/search/search/keyword:socially-engaged-art/]]
+  * Creative Time
+      * Living as Form “1991-2011的社会实践艺术档案”，由Creative Time整理：[[http://creativetime.org/programs/archive/2011/livingasform/archive.htm|http://creativetime.org/programs/archive/2011/livingasform/archive.htm]]
+  * The Visible Award，专为社会实践艺术设立的一个奖项：[[http://www.visibleproject.org/blog/award/|http://www.visibleproject.org/blog/award/]]
+  * A Blade of Glass：[[http://www.abladeofgrass.org/fieldworks/|http://www.abladeofgrass.org/fieldworks/]]
+  * CREATIVE PRACTICES AND PUBLIC ENGAGEMENT \\ [[https://www.researchcatalogue.net/view/305334/305335/0/0|https://www.researchcatalogue.net/view/305334/305335/0/0]]
+  * [[http://www.jar-online.net/journal/|http://www.jar-online.net/journal/]]
+  * beautiful trouble
+  * Archive of THE ACT A Journal of Performance Art, Activities, Happenings, Events, Choices \\ [[http://inventivity.com/PP/|http://inventivity.com/PP/]]
+  * Field, Grant Kester 建立的关于全球范围Social Practice Art的网络期刊, [[http://field-journal.com/|http://field-journal.com/]]
+
+书籍
+
+  - 书籍 //Beautiful Trouble: A Toolbox for Revolution//
+  - 书籍 //Artificial Hells//  by Claire Bishop
+  - 书籍 //Participation//  (Documents of Contemporary Art) by Claire Bishop
+  - 书籍 //The Nightmare of Participation//  by Markus Miessen
+  - 书籍 //The One and the Many//: Contemporary Collaborative Art in a Global Context by Grant H. Kester
+  - 书籍 //Visible: Where Art Leaves Its Own Field and Becomes Visible as Part of Something Else//  by Angelika Burtscher and Judith Wielande
+  - 书籍 //Relational Aesthetics//  by Nicolas Bourriaud
+  - 书籍 //Mapping the Terrain//  by Suzanne Lacy
+  - 书籍 //Living as Form// by Nato Thompson
+  - 书籍 //Conversation Pieces: Community and Communication in Modern Art//  by Grant H. Kester
+  - 书籍 //Public Servants: Art and the Crisis of the Common Good (Critical Anthologies in Art and Culture) //by Johanna Burton, Shannon Jackson, Dominic Willson
+
+{{tag>艺术 社会实践艺术 档案馆}}
