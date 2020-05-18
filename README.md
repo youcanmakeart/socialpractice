@@ -2,7 +2,10 @@
 
 - [社会实践艺术（中文）](#社会实践艺术中文)
 - [社会实践艺术（英文）](#社会实践艺术英文)
+- [当代艺术类档案网站](#当代艺术类档案网站)
+- [文化艺术综合类档案网站](#文化艺术综合类档案网站)
 - [如何参与本页面](#如何参与本页面)
+
 
 * * * 
 
@@ -153,6 +156,110 @@
 10.  书籍 _Conversation Pieces: Community and Communication in Modern Art_ by Grant H. Kester
 11.  书籍 _Public Servants: Art and the Crisis of the Common Good (Critical Anthologies in Art and Culture)_ by Johanna Burton, Shannon Jackson, Dominic Willson
 
+# 当代艺术类档案网站
+
+*   【中文】早期中国艺术界的艺术档案  
+    [http://www.artda.cn/](http://www.artda.cn/ "http://www.artda.cn/")
+*   【中文】亚洲艺术文献库  
+    [https://aaa.org.hk/](https://aaa.org.hk/ "https://aaa.org.hk/")
+*   UbuWeb 前卫艺术的档案馆  
+    [http://www.ubu.com/](http://www.ubu.com/ "http://www.ubu.com/")
+*   DO IT at e-flux 小汉斯早期重要项目“做”档案馆  
+    [DO IT at e-flux](http://projects.e-flux.com/do_it/homepage/do_it_home.html "http://projects.e-flux.com/do_it/homepage/do_it_home.html")
+*   1999年的101 Art Ideas You Can Do Yourself  
+    [http://projects.e-flux.com/pruitt/](http://projects.e-flux.com/pruitt/ "http://projects.e-flux.com/pruitt/")
+*   东欧艺术档案  
+    [http://www.eastartmap.org/](http://www.eastartmap.org/ "http://www.eastartmap.org/")
+
+
+# 文化艺术综合类档案网站
+
+*   Disobedience  
+    [Disobedience, an ongoingvideo archive](http://www.disobediencearchive.com/ "http://www.disobediencearchive.com/")
+*   优生学档案+百科全书。首页设计很值得参考。  
+    [http://eugenicsarchives.ca/](http://eugenicsarchives.ca/ "http://eugenicsarchives.ca/")
+*   传奇的书籍网站，现在已不再对外开放下载  
+    aaaaarg.fail
+*   【中文】乌青个人博客：  
+    [https://wuqing.org/](https://wuqing.org/ "https://wuqing.org/")
+*   【中文】乌青的果皮网（含已关闭的论坛、内向微博、云写作计划、播客、电子书下载等等）：  
+    [http://koopee.org/](http://koopee.org/ "http://koopee.org/")
+*   monoskop，非常丰富的艺术、人文、媒体相关档案资料，包括pdf下载  
+    [http://monoskop.org](http://monoskop.org "http://monoskop.org")
+*   [Archive of Digital Art](https://www.digitalartarchive.at/nc/home.html "https://www.digitalartarchive.at/nc/home.html")
+*   [Gerd Arntz Web Archive](http://www.gerdarntz.org/ "http://www.gerdarntz.org/")
+*   [American Archive of Public Broadcasing](http://americanarchive.org/ "http://americanarchive.org/")
+*   [bildwechsel](http://www.bildwechsel.org/info/en/about.html "http://www.bildwechsel.org/info/en/about.html"), Hamburg
+*   [Canyon Cinema](http://canyoncinema.com/ "http://canyoncinema.com/"), San Francisco
+*   [The Center for Land Use Interpretation](http://clui.org/ "http://clui.org/"), Los Angeles
+*   [The Creative Independent archive](https://thecreativeindependent.com/archive/ "https://thecreativeindependent.com/archive/")
+*   [David Rumsey Map Collection Database](http://www.davidrumsey.com/ "http://www.davidrumsey.com/"), physical collection housed at the [David Rumsey Map Center](https://library.stanford.edu/libraries/rumsey/about "https://library.stanford.edu/libraries/rumsey/about"), Stanford
+*   [Decolonising Design](http://www.decolonisingdesign.com/resources/ "http://www.decolonisingdesign.com/resources/")
+*   [East of Borneo Archive](https://eastofborneo.org/archive "https://eastofborneo.org/archive"), Los Angeles
+*   [Group Material Archive](http://dlib.nyu.edu/findingaids/html/fales/groupmaterial/ "http://dlib.nyu.edu/findingaids/html/fales/groupmaterial/"), at The Fales Library and Special Collections, NYU
+*   [Harun Farocki Institut](https://www.harun-farocki-institut.org/en/ "https://www.harun-farocki-institut.org/en/"), Berlin
+*   [Housing Prototypes](http://housingprototypes.org/ "http://housingprototypes.org/")
+*   [The Institute for Figuring](http://theiff.org/ "http://theiff.org/")
+*   [International Institute of Social History](https://search.socialhistory.org/ "https://search.socialhistory.org/") (contains the archive of the [IMMRC](https://search.socialhistory.org/Record/ARCH01400 "https://search.socialhistory.org/Record/ARCH01400"))
+*   [Institute for Applied Aesthetics](http://www.applied-aesthetics.org/ "http://www.applied-aesthetics.org/")
+*   [Interference Archive](https://interferencearchive.org/ "https://interferencearchive.org/"), Brooklyn
+*   [Internet Archive](https://archive.org/ "https://archive.org/") and [Open Library](https://openlibrary.org/ "https://openlibrary.org/")
+*   [Isotype Revisited](http://isotyperevisited.org/ "http://isotyperevisited.org/") and [Otto and Marie Neurath Isotype Collection](https://www.reading.ac.uk/typography/collectionsandarchives/typ-isotype-collection.aspx "https://www.reading.ac.uk/typography/collectionsandarchives/typ-isotype-collection.aspx") at University of Reading
+*   [Letterform Archive](https://letterformarchive.org/ "https://letterformarchive.org/"), San Francisco
+*   [Library of the Printed Web](http://printedweb.org/ "http://printedweb.org/") [at MoMA](https://docs.google.com/spreadsheets/d/1kk7dYKk12ON7RgtZ-wg7Vmp44Fqv7OEi6Z90nu7WNpU/edit#gid=0 "https://docs.google.com/spreadsheets/d/1kk7dYKk12ON7RgtZ-wg7Vmp44Fqv7OEi6Z90nu7WNpU/edit#gid=0")
+*   [Library Stack](https://www.librarystack.org/ "https://www.librarystack.org/")
+*   [Los Angeles Contemporary Archive](http://lacarchive.com/ "http://lacarchive.com/")
+*   [Manystuff archive](http://www.manystuff.org/?page_id=2410#.WLS3MFuQZSt "http://www.manystuff.org/?page_id=2410#.WLS3MFuQZSt"), 2007-2015
+*   [Metropolitan Museum of Art introduces Open Access](http://metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met "http://metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met")
+*   [Monoskop](https://monoskop.org/About_Monoskop "https://monoskop.org/About_Monoskop")
+*   [The Native American Graphic Design Project](http://www.neebin.com/nativedesign/ "http://www.neebin.com/nativedesign/")
+*   [nonsite.org](http://nonsite.org/ "http://nonsite.org/")
+*   [NYPL digital collections](https://digitalcollections.nypl.org/ "https://digitalcollections.nypl.org/") and the [Mid-Manhattan Picture Collection](https://digitalcollections.nypl.org/collections/mid-manhattan-picture-collection#/?tab=about "https://digitalcollections.nypl.org/collections/mid-manhattan-picture-collection#/?tab=about")
+*   [Open Culture](http://www.openculture.com/ "http://www.openculture.com/")
+*   [Open School-Workshop tumblr](http://openschool-workshop.tumblr.com/ "http://openschool-workshop.tumblr.com/")
+*   [Prelinger Archives](https://archive.org/details/prelinger "https://archive.org/details/prelinger"), San Francisco
+*   [Primary Information](http://www.primaryinformation.org/pdfs/ "http://www.primaryinformation.org/pdfs/")
+*   [Project Gutenberg](https://www.gutenberg.org/ "https://www.gutenberg.org/")
+*   [Provisions Library](http://provisionslibrary.com/ "http://provisionslibrary.com/")
+*   [Radio Garden](http://radio.garden/ "http://radio.garden/")
+*   [Reading Design](https://www.readingdesign.org/ "https://www.readingdesign.org/")
+*   [Salvage Art Institute](http://salvageartinstitute.org/ "http://salvageartinstitute.org/"), New York, NY
+*   [The Serving Library](http://www.servinglibrary.org/ "http://www.servinglibrary.org/"), Liverpool
+*   [Stichting Egress Foundation](http://egressfoundation.info/ "http://egressfoundation.info/")
+*   [Tolstoy College Records, 1969-1983](http://libweb1.lib.buffalo.edu:8080/xtf/view?docId=ead/archives/ubar_0542.xml "http://libweb1.lib.buffalo.edu:8080/xtf/view?docId=ead/archives/ubar_0542.xml") at SUNY Buffalo
+*   [UbuWeb](http://www.ubu.com/ "http://www.ubu.com/")
+*   [baugruppen](http://fuckyeahbaugruppen.tumblr.com/ "http://fuckyeahbaugruppen.tumblr.com/")
+*   [California Institute of the Arts Design School archive](http://designschoolarchive.calarts.edu/ "http://designschoolarchive.calarts.edu/"), Valencia
+*   [The Underground Museum](https://theunderground-museum.org/ "https://theunderground-museum.org/"), Los Angeles
+*   [viralnet](http://viralnet.net/ "http://viralnet.net/")
+*   [Walking In Los Angeles](http://www.walkinginla.com/ "http://www.walkinginla.com/")
+*   [Women of Graphic Design](http://womenofgraphicdesign.org/ "http://womenofgraphicdesign.org/")
+*   [Yale Union](https://yaleunion.org/readings/ "https://yaleunion.org/readings/"), Porland, OR
+*   _ARG_, Aaaaarg [[4](http://gr.aaaaarg.org/ "http://gr.aaaaarg.org/")]
+*   _BnF_, Gallica, Bibliothèque nationale de France, Paris [[5](http://gallica.bnf.fr/ "http://gallica.bnf.fr/")]
+*   _BSB/MDZ_, Digitale Bibliothek, Münchener Digitalisierungszentrum, Bayerische Staatsbibliothek [[6](http://www.muenchener-digitalisierungszentrum.de/ "http://www.muenchener-digitalisierungszentrum.de/")]
+*   _DTA_, Deutsches Text Archiv, Berlin [[7](http://www.deutschestextarchiv.de/ "http://www.deutschestextarchiv.de/")]
+*   _GDZ_, Göttinger Digitalisierungszentrum [[8](http://gdz.sub.uni-goettingen.de/en/gdz "http://gdz.sub.uni-goettingen.de/en/gdz")]
+*   _Goo/Google_, Google Books [[9](http://books.google.com/ "http://books.google.com/")]
+*   _FES_, Digitale Bibliotek der Friedrich-Ebert-Stiftung, Bonn & Berlin [[10](http://library.fes.de/inhalt/digitale-bibliothek.htm "http://library.fes.de/inhalt/digitale-bibliothek.htm")]
+*   _HUL_, The Digital Collections of Harvard College Library [[11](http://hcl.harvard.edu/collections/digital_collections/ "http://hcl.harvard.edu/collections/digital_collections/")]
+*   _IA_, Internet Archive [[12](http://archive.org/details/texts "http://archive.org/details/texts")]
+*   _Log_, Monoskop Log [[13](http://monoskop.org/log "http://monoskop.org/log")]
+*   _MIA_, Marxists Internet Archive [[14](http://www.marxists.org/ "http://www.marxists.org/")]
+*   _MoW_, Memory of the World [[15](http://library.memoryoftheworld.org/ "http://library.memoryoftheworld.org/")]
+*   _MPIWG_, ECHO – Cultural Heritage Online, Max-Planck-Institut für Wissenschaftsgeschichte, Berlin [[16](http://echo.mpiwg-berlin.mpg.de/ "http://echo.mpiwg-berlin.mpg.de/")]
+*   _NB_, Nasjonalbiblioteket Oslo [[17](http://nb.no/ "http://nb.no/")]
+*   _OL_, Open Library [[18](http://openlibrary.org/ "http://openlibrary.org/")]
+*   _PMC_, Posner Memorial Collection, Carnegie Mellon University Libraries, Pittsburgh/PA [[19](http://posner.library.cmu.edu/Posner/ "http://posner.library.cmu.edu/Posner/")]
+*   _RSL_, Elektronnaya biblioteka, Rossiyskaya gosudarstvennaya biblioteka, Moscow [[20](http://elibrary.rsl.ru/ "http://elibrary.rsl.ru/")]
+*   _SB_, Digitalisierte Sammlungen der Staatsbibliothek zu Berlin [[21](http://digital.staatsbibliothek-berlin.de/ "http://digital.staatsbibliothek-berlin.de/")]
+*   _SLUB_, Digitale Sammlungen, Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden [[22](http://digital.slub-dresden.de/kollektionen "http://digital.slub-dresden.de/kollektionen")]
+*   _UH_, Heidelberger historische Bestände, Universitätsbibliothek Heidelberg [[23](http://hd-historische-bestaende-digital.uni-hd.de/ "http://hd-historische-bestaende-digital.uni-hd.de/")]
+*   _ULB_, Digitale Bibliotek, Universitäts- und Landesbibliothek Sachsen-Anhalt, Martin-Luther-Universität, Halle-Wittenberg [[24](http://bibliothek.uni-halle.de/dbib/ "http://bibliothek.uni-halle.de/dbib/")]
+*   _UOL_, History of Science Collections, University of Oklahoma Libraries, Norman/OK [[25](http://ouhos.org/2010/06/19/digitized-books/ "http://ouhos.org/2010/06/19/digitized-books/")]
+*   _WB_, Wikibooks [[26](http://wikibooks.org/ "http://wikibooks.org/")]
+*   _WDB_, Wolfenbüttel Digital Library, Herzog August Bibliothek, Wolfenbüttel [[27](http://www.hab.de/en/home/library/wolfenbuettel-digital-library.html "http://www.hab.de/en/home/library/wolfenbuettel-digital-library.html")]
+*   _WS_, Wikisource [[28](http://wikisource.org/ "http://wikisource.org/")]
 
 
 # 如何参与本页面
