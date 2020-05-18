@@ -1,15 +1,12 @@
-<h1 align="center"> 社会实践的艺术 </h1> <br>
+## 目录
 
-
-## Table of Contents
-
-- [中国社会实践艺术](#中国社会实践艺术)
-- [如何参与](#如何参与)
+- [社会实践艺术（中文）](#社会实践艺术（中文）)
+- [社会实践艺术（英文）](#社会实践艺术（英文）)
+- [如何参与本页面](#如何参与本页面)
 
 * * * 
 
-# 中国社会实践艺术
-Social Practice Art in China
+# 社会实践艺术（中文）
 
 ## 长列表
 
@@ -124,9 +121,42 @@ Social Practice Art in China
 *   ……
 
 
-# 如何参与
+# 社会实践艺术（英文）
+
+## 英文网站
+
+*   AAA  
+    [https://aaa.org.hk/en/collection/search/search/keyword:socially-engaged-art/](https://aaa.org.hk/en/collection/search/search/keyword:socially-engaged-art/ "https://aaa.org.hk/en/collection/search/search/keyword:socially-engaged-art/")
+*   Creative Time
+    *   Living as Form “1991-2011的社会实践艺术档案”，由Creative Time整理：[http://creativetime.org/programs/archive/2011/livingasform/archive.htm](http://creativetime.org/programs/archive/2011/livingasform/archive.htm "http://creativetime.org/programs/archive/2011/livingasform/archive.htm")
+*   The Visible Award，专为社会实践艺术设立的一个奖项：[http://www.visibleproject.org/blog/award/](http://www.visibleproject.org/blog/award/ "http://www.visibleproject.org/blog/award/")
+*   A Blade of Glass：[http://www.abladeofgrass.org/fieldworks/](http://www.abladeofgrass.org/fieldworks/ "http://www.abladeofgrass.org/fieldworks/")
+*   CREATIVE PRACTICES AND PUBLIC ENGAGEMENT  
+    [https://www.researchcatalogue.net/view/305334/305335/0/0](https://www.researchcatalogue.net/view/305334/305335/0/0 "https://www.researchcatalogue.net/view/305334/305335/0/0")
+*   [http://www.jar-online.net/journal/](http://www.jar-online.net/journal/ "http://www.jar-online.net/journal/")
+*   beautiful trouble
+*   Archive of THE ACT A Journal of Performance Art, Activities, Happenings, Events, Choices  
+    [http://inventivity.com/PP/](http://inventivity.com/PP/ "http://inventivity.com/PP/")
+*   Field, Grant Kester 建立的关于全球范围Social Practice Art的网络期刊, [http://field-journal.com/](http://field-journal.com/ "http://field-journal.com/")
+
+## 书籍
+
+1.  书籍 _Beautiful Trouble: A Toolbox for Revolution_
+2.  书籍 _Artificial Hells_ by Claire Bishop
+3.  书籍 _Participation_ (Documents of Contemporary Art) by Claire Bishop
+4.  书籍 _The Nightmare of Participation_ by Markus Miessen
+5.  书籍 _The One and the Many_: Contemporary Collaborative Art in a Global Context by Grant H. Kester
+6.  书籍 _Visible: Where Art Leaves Its Own Field and Becomes Visible as Part of Something Else_ by Angelika Burtscher and Judith Wielande
+7.  书籍 _Relational Aesthetics_ by Nicolas Bourriaud
+8.  书籍 _Mapping the Terrain_ by Suzanne Lacy
+9.  书籍 _Living as Form_ by Nato Thompson
+10.  书籍 _Conversation Pieces: Community and Communication in Modern Art_ by Grant H. Kester
+11.  书籍 _Public Servants: Art and the Crisis of the Common Good (Critical Anthologies in Art and Culture)_ by Johanna Burton, Shannon Jackson, Dominic Willson
+
+
+
+# 如何参与本页面
 有疑问？想提出建议？想加入？
 
 1. 注册GitHub账号并登陆
 2. 编辑这个页面。如果不是具体的编辑，而是想问问题提建议，就回复或创建一个Issue
-
