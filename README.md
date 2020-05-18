@@ -1,4 +1,15 @@
-# 档案:中国社会实践艺术 Social Practice Art in China
+<h1 align="center"> 社会实践的艺术 </h1> <br>
+
+
+## Table of Contents
+
+- [中国社会实践艺术](#中国社会实践艺术)
+- [如何参与](#如何参与)
+
+* * * 
+
+# 中国社会实践艺术
+Social Practice Art in China
 
 ## 长列表
 
@@ -68,8 +79,6 @@
     *   黄小鹏 | 天堂租客 [http://t.cn/RIME211](http://t.cn/RIME211 "http://t.cn/RIME211")
 *   [台湾美浓，交工乐队](http://www.treesmusic.com/article/2002_02.htm "http://www.treesmusic.com/article/2002_02.htm")
 *   [台湾，谢英俊，「四川灾后重建」](http://praxis.tw/archive/interview-with-xiei.php "http://praxis.tw/archive/interview-with-xiei.php")
-
-* * *
 
 
 
