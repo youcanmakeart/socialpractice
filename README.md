@@ -5,6 +5,7 @@
 - [当代艺术类档案网站](#当代艺术类档案网站)
 - [文化艺术综合类档案网站](#文化艺术综合类档案网站)
 - [艺术家书](#艺术家书)
+- [当代艺术教育](#当代艺术教育)
 - [如何参与本页面](#如何参与本页面)
 
 * * * 
@@ -282,8 +283,95 @@
     *   香港：zine coop （见facebook页面）
 
 
+# 当代艺术教育
+
+相关书籍：
+
+<span class="underline">Beyond Critique: Contemporary Art in Theory,
+Practice, and Instruction</span>  
+by Pamela Fraser and Roger Rothman
+
+<span class="underline">Art School</span>  
+by Steven Henry Madoff, Steven Henry Madoff
+
+<span class="underline">Curating and the Educational Turn</span>  
+by Paul O’Neill & Mick Wilson
+
+<span class="underline">Akademie X Lessons in Art + Life</span>
+
+<span class="underline">Sevententy-Two Assignments: the foundation
+course in art and design today</span>
+
+<span class="underline">do it</span> & <span class="underline">do it
+(Chinese edition)</span>  
+by HUO
+
+-----
+
+相关文章：
+
+<https://frieze.com/article/new-schools>
+
+[Exhibition as School as Work of Art by Anton Vidokle / Martha Rosler |
+ART LIES: A Contemporary Art
+Quarterly](http://www.art-lies.org/article.php?id=1661&issue=59&s=1)
+
+[Self-Reliance School – TEMPORARY
+SERVICES](https://temporaryservices.org/served/projects-by-name/self-reliance-school/)
+
+Alternative Art School Fair:
+
+<http://pioneerworks.org/programs/alternative-art-school-fair/>
+
+<https://issuu.com/ulinecatalogcatalog/docs/aasf_program_issuu>
+
+[Alternative Art School Fair | Pioneer
+Works](http://pioneerworks.org/programs/alternative-art-school-fair/)![chphlpgkkbolifaimnlloiipkdnihall\_images\_cross.png](/chrome-extension/chphlpgkkbolifaimnlloiipkdnihall_images_cross.png)
+
+[Class Is in Session at New York's First Alternative Art School
+Fair](https://hyperallergic.com/338522/class-is-in-session-at-new-yorks-first-alternative-art-school-fair/)![chphlpgkkbolifaimnlloiipkdnihall\_images\_cross.png](/chrome-extension/chphlpgkkbolifaimnlloiipkdnihall_images_cross.png)
+
+[Op-Ed: What Can We Learn From Alternative Art Schools? — NEW
+INC](http://www.newinc.org/news-posts/taeyoon-choi-alternative-art-school-fair)![chphlpgkkbolifaimnlloiipkdnihall\_images\_cross.png](/chrome-extension/chphlpgkkbolifaimnlloiipkdnihall_images_cross.png)
+
+[MFAs Are Expensive—Here Are 8 Art School
+Alternatives](https://www.artsy.net/article/artsy-editorial-mfas-are-expensive-here-are-8-art-school-alternatives)![chphlpgkkbolifaimnlloiipkdnihall\_images\_cross.png](/chrome-extension/chphlpgkkbolifaimnlloiipkdnihall_images_cross.png)
+
+[The Alternative Art School Fair Debuts at Pioneer Works | BLOUIN
+ARTINFO](http://www.blouinartinfo.com/news/story/1690319/the-alternative-art-school-fair-debuts-at-pioneer-works)
+
+[Clocktower -
+Radio](http://clocktower.org/series/the-alternative-art-school-fair-radio)
+
+-----
+
+相关论文：
+
+*Reflective Practices in Arts Education*
+
+*Circumventing the Imposed Ceiling: Art Education as Resistance
+Narrative*
+
+-----
+
+实验性/艺术性教育参考项目：
+
+Urban Intervention:
+[www.urbaninterventions.net](http://www.urbaninterventions.net)
+
+<http://www.a-i-t.net/ja/future_archives/2018/03/AASF0.php>
+
+<http://mad.a-i-t.net>
+
+[School for Creative Activism – Center for Artistic
+Activism](https://c4aa.org/school-for-creative-activism/)
+
+[Temporary Services](https://temporaryservices.or)
+
+
 # 如何参与本页面
 有疑问？想提出建议？想加入？
 
 1. 注册GitHub账号并登陆
 2. 编辑这个页面。如果不是具体的编辑，而是想问问题提建议，就回复或创建一个Issue
+
